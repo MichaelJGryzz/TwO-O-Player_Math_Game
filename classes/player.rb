@@ -1,3 +1,15 @@
 class Player
-  # Player class code here
+
+  def initialize(name)
+
+  end
+
+  def lose_life
+
+  end
+
+  def alive?
+    
+  end
+
 end

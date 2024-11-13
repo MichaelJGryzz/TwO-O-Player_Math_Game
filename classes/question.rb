@@ -1,3 +1,15 @@
 class Question
-  # Question class code here
+  
+  def initialize
+
+  end
+
+  def ask_question
+
+  end
+
+  def correct_answer?(input)
+
+  end
+  
 end
